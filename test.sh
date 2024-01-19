@@ -1,1 +1,1 @@
-qemu-system-i386 -fda os-image.bin
+qemu-system-x86_64 -d guest_errors -fda os-image.bin
